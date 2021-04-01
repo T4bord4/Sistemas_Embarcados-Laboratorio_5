@@ -1,0 +1,19 @@
+# ninja log v5
+1	149	6389453990000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/RTX_Config.xcl	21ee53f0465c9e76
+14	167	6389453990000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/driverleds.xcl	66685b996ad0e34f
+158	307	6389454000000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.xcl	bf261ad983bbda2a
+175	327	6389454000898256	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/RTX_Config.pbi	67a9cc198e26bd2d
+317	455	6389454002439208	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	4d8a6df537adf3c3
+329	510	6389454000000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.xcl	572abe624bcd06d3
+458	609	6389454003925242	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/driverleds.pbi	4580d87e5ff05172
+518	692	6389454000000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/rtx_lib.xcl	37aa1b9cfa679aa8
+612	805	6389454005959801	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.pbi	27cd0ad5968c85ca
+808	890	6389454006847426	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons_part2.pbi	b3a4d0b04772edd3
+700	903	6389454006917248	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/rtx_lib.pbi	afcd4d4096c7a451
+893	941	6389454007336120	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	8a562c02c86c424b
+906	961	6389454007545558	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons_part1.pbi	866f61db6eb81908
+964	1032	6389454008253481	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	9d3c2d59f7aaddc6
+1037	2085	6389454018380443	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	19f7be39c1ab7aa3
+10	80	6389455699951065	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	4d8a6df537adf3c3
+4	76	6389455934615583	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	11a015ab9d4b67a5
+81	919	6389455942747993	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	19f7be39c1ab7aa3

@@ -1,0 +1,16 @@
+# ninja log v5
+1	91	6378181369258683	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Handlers/irq_cm4f.o	6cb8ee13c79783d0
+95	232	6378181370575155	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/os_systick.o	9b3b4d4139314906
+244	419	6378181372439970	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_delay.o	7b0d00d1842f3c75
+43	463	6378181372868822	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_evflags.o	71ccbdac1bf0aaaf
+475	871	6378181376953594	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_mutex.o	4a2ed24a24566001
+430	1031	6378181378549525	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_msgqueue.o	2f8ad7a308fd153d
+1046	1304	6378181381282018	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_evr.o	792bab2f374ecec5
+884	1368	6378181381920507	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_kernel.o	69eda4f5855bb54
+1314	1530	6378181383556129	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_memory.o	647c77ce6188fc11
+1378	1836	6378181386607985	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_mempool.o	9e00f0926d9581c1
+1541	1883	6378181387087788	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_semaphore.o	2f6eb8397f79df7a
+1849	2076	6378181389012652	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_system.o	a4b1176b2d635a0
+2086	2428	6378181392524968	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_timer.o	95956b396b63a874
+1900	2966	6378181397889160	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Obj/Core/rtx_thread.o	774eecfe6687bc15
+2979	3027	6378181398622340	C:/Users/matc/Documents/GIT-Projects/Sistemas Embarcados - Lab 4/CMSIS-5.6.0/CMSIS/RTOS2/RTX/Library/IAR/IDE/CM4F/Exe/RTX_CM.a	65984d63a35f44d3

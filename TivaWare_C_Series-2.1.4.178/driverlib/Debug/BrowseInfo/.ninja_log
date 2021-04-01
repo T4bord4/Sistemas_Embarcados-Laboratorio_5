@@ -1,0 +1,9 @@
+# ninja log v5
+2	149	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/cpu.xcl	f42d5bc3daf5c6cb
+13	164	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/des.xcl	93a730d236832f10
+169	314	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/emac.xcl	2d80012d4463dbce
+155	346	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/comp.xcl	39c64ab18aed1029
+320	539	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/eeprom.xcl	7a7076f66bbaa4a4
+353	560	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/crc.xcl	96abd74ed5719c64
+543	718	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/flash.xcl	49462c5e9643778e
+565	735	6389454170000000	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/TivaWare_C_Series-2.1.4.178/driverlib/Debug/BrowseInfo/Source/epi.xcl	67cc0b362a97c04b

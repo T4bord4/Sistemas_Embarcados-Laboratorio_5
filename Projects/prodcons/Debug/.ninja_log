@@ -1,0 +1,13 @@
+# ninja log v5
+1	185	6389453969775740	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/startup_TM4C1294.o	42aa241cfee5252d
+78	276	6389453970563636	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/prodcons.o	e66af3393c305bd6
+189	451	6389453972079585	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/driverleds.o	fcab9608f7f5b9dc
+285	486	6389453972308969	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/system_TM4C1294_TW.o	f7df007870b365
+460	666	6389453974323601	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/rtx_lib.o	572e1c011565315b
+495	688	6389453974632754	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/RTX_Config.o	46df335bc6211b27
+696	926	6389453977079720	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Exe/prodcons.out	154476bc41ed76cf
+935	1011	6389453978059853	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Exe/prodcons.bin	29ead3e757068476
+2	179	6389456399287067	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/prodcons.o	e66af3393c305bd6
+13	253	6389456400045038	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Obj/driverleds.o	fcab9608f7f5b9dc
+261	424	6389456401765815	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Exe/prodcons.out	154476bc41ed76cf
+433	458	6389456402204647	C:/Users/matc/Documents/Sistemas_Embarcados-Laboratorio_5/Projects/prodcons/ewarm/Exe/prodcons.bin	29ead3e757068476
